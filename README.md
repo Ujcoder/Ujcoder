@@ -11,10 +11,8 @@
 - 📫 How to reach me **soujwal@gmail.com**
 
 - ⚡ Fun fact **I think am so funny 😁**
-
-<h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/Hv9Yz6T7K1hoWfedA">
 <p align="left">
+<h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/https://twitter.com/uj_999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/uj_999" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ujwal-sonawane-502a932b1?trk=contact-info" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ujwal-sonawane-502a932b1?trk=contact-info" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/ujwalsonawane3501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ujwalsonawane3501" height="30" width="40" /></a>
