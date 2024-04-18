@@ -1,7 +1,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ujwal sonawane</h1>
 <h3 align="center">A passionate FullStack 🧑🏻‍💻 developer from India 🇮🇳</h3>
-<img align="right" alt="Coding" width="400" src="[https://images.app.goo.gl/mEdWbaMGjXesoLkj8](https://images.app.goo.gl/aWqfS2ewuTiSW2iJ9)">
+
 - 🔭 I’m currently working on **Blogging**
 
 - 🌱 I’m currently learning **MSc in computer science**
@@ -13,6 +13,7 @@
 - ⚡ Fun fact **I think am so funny 😁**
 
 <h3 align="left">Connect with me:</h3>
+<img align="right" alt="Coding" width="400" src="[https://images.app.goo.gl/mEdWbaMGjXesoLkj8](https://images.app.goo.gl/aWqfS2ewuTiSW2iJ9)">
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/uj_999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/uj_999" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ujwal-sonawane-502a932b1?trk=contact-info" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ujwal-sonawane-502a932b1?trk=contact-info" height="30" width="40" /></a>
